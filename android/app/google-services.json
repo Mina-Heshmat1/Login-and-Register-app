@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "476448551388",
+    "project_id": "login-ui-4cdba",
+    "storage_bucket": "login-ui-4cdba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476448551388:android:4c2f29d208ccf41fbc5f19",
+        "android_client_info": {
+          "package_name": "com.example.ui_login_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABVPaDWs3ISVF7VkYwsviMXvr5vIQGqNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
